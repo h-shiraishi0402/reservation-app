@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./navbar.component.sass']
 })
 export class NavBarComponent {
-  title = 'reservation-app';
+  
 }
